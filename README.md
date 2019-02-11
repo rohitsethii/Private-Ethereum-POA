@@ -20,8 +20,8 @@ echo 'node2: 4ec8d45d904370865eaf60127576612ae238eab1' >> accounts.txt
 #####  save your passwords in a file:
 
 ```
-echo 'your password' node1/password.txt
-echo 'your password' > node2/password.txt
+echo 'your password' > firstNode/password.txt
+echo 'your password' > secondNode/password.txt
 ```
 
 ##### Genesis file
